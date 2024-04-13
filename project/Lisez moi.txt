@@ -1,0 +1,1 @@
+Utiliser pnpm pour compiler le projet et utiliser le nouveau backend
